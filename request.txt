@@ -1,0 +1,45 @@
+curl 'https://info.stbsa.ro/v2/api/web/lines/stop?stop_id=5923&selected_line_id=116&direction=1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-US,ro-RO;q=0.8,ro;q=0.6,en-GB;q=0.4,en;q=0.2' \
+  -H 'Content-Type: application/json' \
+  -H 'OS-Type: Web' \
+  -H 'Lang: ro' \
+  -H 'App-Version: 0.0.0' \
+  -H 'Device-Name: Firefox' \
+  -H 'OS-Version: 5.0 (X11; Ubuntu)' \
+  -H 'Source: ro.radcom.smartcity.web' \
+  -H 'User-Info: $2a$10$QIBUD0acjI64iR4OO4717uuOKYpvUw1Hnhh5CSE5Dgn9Mun.HsbyO' \
+  -H 'App-Id: buc18c28b74-a962-4894-a9e6-24c971c2605e' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://info.stbsa.ro/' \
+  -H 'Cookie: buc-start-date-filter=1753131600000; buc-start-time-filter=%7B%22hours%22%3A%2217%22%2C%22minutes%22%3A%2246%22%2C%22useCurrentTime%22%3Atrue%7D' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin'
+
+Rascoala 1907Str.Pescarilor, Bucuresti*STATIONR�
+
+282t�BUS"#0070c0*
+                 Gara Basarab0�8@��	�R
+
+044054R
+050720324456R
+06082030384654R$
+070210182634425058R
+08071523314151R
+09001020304254R
+10061829394755R
+11031120304254R
+1207203448R
+130215284052R
+14041525364759R
+1511243750R
+16021222324354R
+17041423324151R
+18031527384958R$
+190716243138455259R(
+20061319253137455259R
+21071625344250R
+22001020304055Z�{qknG_ar~CAl@D\tGdPrBpEdBrEXn@\bABHAHCFKHSTiMtMcB~AoCnCiAt@INI^Lp@f@fANZx@pBbAxBr@rAb@r@h@t@r@~@h@n@bAz@~EjDh@l@R`@Dd@@t@Il@}@`BgGjMyAfCa@f@m@d@cA|@m@b@Qd@?\h@x@bB|AjAtAxAfDpClL|DzNvDhOn@xBvCnKrCnKbDxLhBvGxCrKtBjHF`@E\?NKHMAa@K}JoBkG{AmGuAgCo@cCg@cF_AyAYMDGJEPARoAtNi@vHWfFY`HQlDCz@Az@@l@Dt@d@`DHz@Bj@Dl@?n@A~@?dA@hC?XJZPR^Lt@NvKzBvEbA|D`Av@R`@LDN@LAPEL_Ap@iDzBmBzAm@l@eAnAeAvA{@xAyA`DOX_D`IWp@KVq@`B}@zBe@`@wAb@QVKt@?t@T`AJ~@]hHaAfOUnCQdB_@|FGXO`@Ub@KZIb@Bd@J`@Bf@E^g@vCaB|KEhABl@\xBVrAxIzj@ZFPIPQnAoEnEkNXq@Zi@Xe@|@sAlF}GfA}A|BeDp@aAvDgFnA_BvDsFpIaLdEyERMNBPHFLJjA\lCt@zDH^b@r@nIvP|BjE~CvHVt@z@tBr@rAx@lAvB`C^TZI~A{D|IkWzA}FLSJCP@j@x@f@b@`@BrBu@XCLBVPp@dAd@p@An@cSp\qBhDuBbDWVKPCR?RFTLJR@VGTK\_@LUFWKc@?[DYDMj@aAr@eA��bԵ�:F@F~�:@"BUS(��+��;F@.�ED1:@"BUS(�� @��;F@�pZ�#:@"BUS(�U4���:F@�pY��:@"BUS(�2r��9F@��	�:@"BUS(�8�Q��9F@�fI:@"BUS(������;F@�#bJ$:@"BUS(�m�%��;F@u:@"BUS(R+
+N120��BUS"#2D2E83*Piata Unirii 28@X%
